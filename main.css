@@ -1,0 +1,83 @@
+header{
+    background-color: blue;
+    width: 50%;
+    height: 200px;
+}
+
+footer{
+    background-color: yellowgreen;
+    width: 50%;
+    height: 200px;
+}
+
+#A{
+    background-color:yellow;
+    color: blue;
+}
+
+#B{
+    background-color: red;
+    color: white;
+}
+
+#C{
+    background-color: blue;
+    color: green;
+}
+
+#D{
+    background-color: white;
+    color: black;
+}
+
+#E{
+    background-color: pink;
+}
+
+#F{
+    background-color: green;
+}
+
+#G{
+    background-color: black;
+}
+
+#H{
+    background-color: orange;
+}
+
+#I{
+    background-color: red;
+    color: blue
+}
+
+#J{
+    background-color: snow;
+    color: green;
+}
+
+#K{
+    background-color: teal;
+    color: white;
+}
+
+#L{
+    background-color: green;
+    color: grey;
+}
+
+#M{
+    background-color: purple;
+}
+
+#N{
+    background-color: grey;
+}
+
+#O{
+    background-color:orange;
+}
+
+#P{
+    background-color: pink;
+}
