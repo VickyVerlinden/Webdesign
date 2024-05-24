@@ -1,0 +1,49 @@
+body{
+    background-color: skyblue;
+    min-height: 300px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+header{
+    background-color: darkblue;
+    min-height: 23px;
+}
+ul a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    display: inline;
+    height: 80px;
+    width: 50px;
+    padding: 5px;
+}
+li:hover{
+    background-color: lightskyblue;
+    border-style: none;
+}
+table{
+    border-collapse: collapse;
+    width: 1000px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+td, th{
+    padding: 10px;
+}
+input[type="text"], input[type="email"], textarea, button{
+    display: block;
+    margin: 20px;
+    width: 300px;
+    margin-left: 500px;
+}
+textarea{
+    height: 200px;
+}
+button:active{
+    background-color: green;
+    color: white;
+}
